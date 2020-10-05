@@ -13,7 +13,7 @@ setuptools.setup(
         'design of experiments',
         'experimental design',
         'analysis of experiments',
-        'crd rcbd latin square'
+        'crd rcbd latin square bibd'
         ],
     license='MIT',
     include_package_data=True,
